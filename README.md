@@ -18,7 +18,9 @@ originally scraped from winemag.com
 a.    Drop duplicates and unknowns
 b.    Re-name columns as necessary
 c.    Re-categorize as necessary
-4.    Load databases into SQL as table
+
+## Load Point
+- Load databases into SQL as table
 
 ## Data endpoints:
 -    Where the highest rated wines come from
