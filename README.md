@@ -1,5 +1,7 @@
 # wine-review-project
 
+![wine glasses](https://cms.splendidtable.org/sites/default/files/styles/w2000/public/wine-glasses_andresr-iStock-GettyImagesPlus-468917818-LEDE.jpg?itok=atCY6SJT)
+
 ## Data sources:
 2 CSV files from:
 https://www.kaggle.com/zynicide/wine-reviews#winemag-data-130k-v2.csv
